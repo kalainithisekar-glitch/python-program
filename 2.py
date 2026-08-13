@@ -1,0 +1,12 @@
+name = input("Enter student name: ")
+age = int(input("Enter age: "))
+dept = input("Enter dept: ")
+clg = input("Enter clg name: ")
+cgpa = float(input("Enter cgpa: "))
+
+print("\n--- Student Information ---")
+print("Name:", name)
+print("Age:", age)
+print("Dept:", dept)
+print("Clg:", clg)
+print("CPGA:", cgpa)
